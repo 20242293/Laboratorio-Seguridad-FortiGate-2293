@@ -86,7 +86,8 @@ Las configuraciones utilizadas en el laboratorio se encuentran en:
 
 ## Video de demostración
 
-**Enlace:** PENDIENTE DE AGREGAR
+**Enlace:** https://youtu.be/B94mxunrOa0 
+
 
 ## Autor
 
