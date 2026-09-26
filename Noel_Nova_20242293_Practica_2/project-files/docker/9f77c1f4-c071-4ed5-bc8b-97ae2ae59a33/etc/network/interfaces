@@ -1,0 +1,7 @@
+# Static config for eth0
+auto eth0
+iface eth0 inet static
+    address 10.229.3.130
+    netmask 255.255.255.240
+    gateway 10.229.3.129
+    up echo nameserver 8.8.8.8 > /etc/resolv.conf
